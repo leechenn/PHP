@@ -34,6 +34,14 @@ HTML;
 
       echo $str2
      ?>
+     <!--
+     array
+     float
+     object
+     null
+     integer
+     boolean -->
+
 
   </body>
 </html>
